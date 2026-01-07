@@ -1,4 +1,4 @@
-# Clicker Game  JavaScript
+# Clicker Game JavaScript
 
 Ein einfaches **Clicker-Spiel**, entwickelt mit **HTML, CSS und JavaScript**.  
 Dieses Projekt dient als **Lernprojekt**, um grundlegende Web-Development-Konzepte zu üben.
@@ -18,69 +18,52 @@ Die Punktzahl wird direkt auf der Webseite aktualisiert.
 ---
 
 ## 🗂️ Projektstruktur
+
+```text
 clicker-spiel/
 │
-├── index.html # Struktur und Inhalt
-├── style.css # Layout und Design
-├── script.js # Spiellogik
-└── README.md # Projektdokumentation
-
+├── index.html   # Struktur und Inhalt
+├── style.css    # Layout und Design
+├── script.js    # Spiellogik
+└── README.md    # Projektdokumentation
+```
 ## ▶️ Verwendung
-
-1. Repository herunterladen oder klonen
-2. `index.html` in einem Webbrowser öffnen
-3. Button anklicken, um Punkte zu sammeln
-
----
+- Repository herunterladen oder klonen
+- index.html in einem Webbrowser öffnen
+- Button anklicken, um Punkte zu sammeln
 
 ## 🧠 Lerninhalte
-
 - HTML Grundstruktur
 - CSS Styling (Abrundungen, Hover-Effekte, Schriftarten)
 - JavaScript Grundlagen:
   - Variablen
   - DOM-Manipulation
   - Event-Handling
-
----
-
+ 
 ## 🎨 Design & UI
-
-- Schriftart: **Lexend Deca**
+- Schriftart: Lexend Deca
   - Black (Überschrift)
   - Bold (Button)
   - Regular (Text)
-- Abgerundeter Button mit Schatten
-- Dezente Hover-Effekte
 
----
-
-## 🔧 Technologien
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- Google Fonts
-
----
-
+- Features:
+  - Abgerundeter Button mit Schatten
+  - Dezente Hover-Effekte
+ 
 ## 📈 Mögliche Erweiterungen
-
-- Timer oder Countdown
-- Highscore-System
-- Reset-Button
-- Soundeffekte
-- Dark Mode
-
----
+- [ ] Timer oder Countdown
+- [ ] Highscore-System
+- [ ] Reset-Button
+- [ ] Soundeffekte
+- [ ] Dark Mode
 
 ## ℹ️ Hinweis
-
-Dieses Projekt ist bewusst **einfach gehalten** und richtet sich an **Einsteiger**,  
-die erste Erfahrungen mit Web-Development sammeln möchten.
+Dieses Projekt ist bewusst einfach gehalten und richtet sich an Einsteiger, die erste Erfahrungen mit Web-Development sammeln möchten.
 
 ---
 
 ## 📄 Lizenz
+### Kurze Erklärung zur Dateiendung:
+Obwohl du nach `.mf` gefragt hast, nutzt GitHub für Dokumentationen das **Markdown-Format** mit der Endung **`.md`**. Falls du eine Datei speziell für ein Tool brauchst, das `.mf` verlangt, kannst du den Text oben einfach in eine Datei mit dieser Endung kopieren. Für die korrekte Anzeige auf GitHub ist jedoch `README.md` die richtige Wahl.
 
-Dieses Projekt kann frei für Lern- und Übungszwecke verwendet werden.
+Soll ich dir zeigen, wie du die **Google Fonts (Lexend Deca)** korrekt in dein CSS einbindest?
