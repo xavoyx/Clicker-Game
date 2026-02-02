@@ -59,11 +59,3 @@ clicker-spiel/
 
 ## ℹ️ Hinweis
 Dieses Projekt ist bewusst einfach gehalten und richtet sich an Einsteiger, die erste Erfahrungen mit Web-Development sammeln möchten.
-
----
-
-## 📄 Lizenz
-### Kurze Erklärung zur Dateiendung:
-Obwohl du nach `.mf` gefragt hast, nutzt GitHub für Dokumentationen das **Markdown-Format** mit der Endung **`.md`**. Falls du eine Datei speziell für ein Tool brauchst, das `.mf` verlangt, kannst du den Text oben einfach in eine Datei mit dieser Endung kopieren. Für die korrekte Anzeige auf GitHub ist jedoch `README.md` die richtige Wahl.
-
-Soll ich dir zeigen, wie du die **Google Fonts (Lexend Deca)** korrekt in dein CSS einbindest?
